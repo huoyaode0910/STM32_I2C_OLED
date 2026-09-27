@@ -1,0 +1,14 @@
+﻿*.o
+*.d
+*.crf
+*.lnp
+*.htm
+*.dep
+*.hex
+*.bin
+*.axf
+*.map
+*.uvoptx
+*.uvguix.*
+Listings/
+Objects/
